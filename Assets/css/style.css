@@ -39,3 +39,21 @@ body {
         background-color: lightsalmon;
         color: #ffffff;
 }
+
+.about-info {
+    border: 10px solid darksalmon;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding:50px;
+    height: 75%;
+    font-family: 'Baloo Chettan 2', 'Baloo 2', 'Poppins', cursive, sans-serif;
+    background-color: lightsalmon;
+    color: #ffffff;
+}
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Baloo Chettan 2', 'Baloo 2', 'Poppins', cursive, sans-serif;
+    text-align: center;
+}
